@@ -1,0 +1,16 @@
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.exe
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.deps.json
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.runtimeconfig.json
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.runtimeconfig.dev.json
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.dll
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\ref\exercicio4.dll
+D:\workspace\exerciciosGft\exercicio4\bin\Debug\net5.0\exercicio4.pdb
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.csprojAssemblyReference.cache
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.AssemblyInfoInputs.cache
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.AssemblyInfo.cs
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.dll
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\ref\exercicio4.dll
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.pdb
+D:\workspace\exerciciosGft\exercicio4\obj\Debug\net5.0\exercicio4.genruntimeconfig.cache
